@@ -1,0 +1,2795 @@
+{
+    "series_list": [
+        {
+            "series_name": "LIVE THE@TER PERFORMANCE",
+            "series_abbr": "LTP",
+            "start_date": "20130424",
+            "disc_list": [
+                {
+                    "disc_number": "02",
+                    "disc_member_list": [
+                        "haruka",
+                        "tomoka",
+                        "yuriko",
+                        "serika",
+                        "shizuka"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Legend Girls!!"
+                            ],
+                            "group_member_list": [
+                                "haruka",
+                                "tomoka",
+                                "yuriko",
+                                "serika",
+                                "shizuka"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "03",
+                    "disc_member_list": [
+                        "hibiki",
+                        "mirai",
+                        "fuka",
+                        "anna",
+                        "nao"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "PRETTY DREAMER"
+                            ],
+                            "group_member_list": [
+                                "hibiki",
+                                "mirai",
+                                "fuka",
+                                "anna",
+                                "nao"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "04",
+                    "disc_member_list": [
+                        "chihaya",
+                        "shiho",
+                        "kotoha",
+                        "megumi"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Blue Symphony"
+                            ],
+                            "group_member_list": [
+                                "chihaya",
+                                "shiho",
+                                "kotoha",
+                                "megumi"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "05",
+                    "disc_member_list": [
+                        "iori",
+                        "emily",
+                        "rio",
+                        "mizuki"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Sentimental Venus"
+                            ],
+                            "group_member_list": [
+                                "iori",
+                                "emily",
+                                "rio",
+                                "mizuki"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "06",
+                    "disc_member_list": [
+                        "miki",
+                        "tsubasa",
+                        "reika",
+                        "julia"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Marionetteは眠らない"
+                            ],
+                            "group_member_list": [
+                                "miki",
+                                "tsubasa",
+                                "reika",
+                                "julia"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "07",
+                    "disc_member_list": [
+                        "azusa",
+                        "karen",
+                        "sayoko",
+                        "noriko"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "カワラナイモノ"
+                            ],
+                            "group_member_list": [
+                                "azusa",
+                                "karen",
+                                "sayoko",
+                                "noriko"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "08",
+                    "disc_member_list": [
+                        "yayoi",
+                        "tamaki",
+                        "iku",
+                        "kana"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Good-Sleep, Baby♡"
+                            ],
+                            "group_member_list": [
+                                "yayoi",
+                                "tamaki",
+                                "iku",
+                                "kana"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "09",
+                    "disc_member_list": [
+                        "ritsuko",
+                        "hinata",
+                        "minako",
+                        "arisa"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Helloコンチェルト"
+                            ],
+                            "group_member_list": [
+                                "ritsuko",
+                                "hinata",
+                                "minako",
+                                "arisa"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "10",
+                    "disc_member_list": [
+                        "takane",
+                        "umi",
+                        "matsuri",
+                        "miya"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "瞳の中のシリウス"
+                            ],
+                            "group_member_list": [
+                                "takane",
+                                "umi",
+                                "matsuri",
+                                "miya"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "11",
+                    "disc_member_list": [
+                        "makoto",
+                        "mami",
+                        "elena",
+                        "ayumu"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Fu-Wa-Du-Wa"
+                            ],
+                            "group_member_list": [
+                                "makoto",
+                                "mami",
+                                "elena",
+                                "ayumu"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "12",
+                    "disc_member_list": [
+                        "yukiho",
+                        "momoko",
+                        "chizuru",
+                        "roco"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "ココロがかえる場所"
+                            ],
+                            "group_member_list": [
+                                "yukiho",
+                                "momoko",
+                                "chizuru",
+                                "roco"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "13",
+                    "disc_member_list": [
+                        "ami",
+                        "subaru",
+                        "akane",
+                        "konomi"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Bigバルーン◎"
+                            ],
+                            "group_member_list": [
+                                "ami",
+                                "subaru",
+                                "akane",
+                                "konomi"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "series_name": "LIVE THE@TER HARMONY",
+            "series_abbr": "LTH",
+            "start_date": "20140730",
+            "disc_list": [
+                {
+                    "disc_number": "01",
+                    "disc_member_list": [
+                        "hibiki",
+                        "ritsuko",
+                        "yayoi",
+                        "ami",
+                        "iori"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "レジェンドデイズ",
+                            "group_song_list": [
+                                "合言葉はスタートアップ！"
+                            ],
+                            "group_member_list": [
+                                "hibiki",
+                                "ritsuko",
+                                "yayoi",
+                                "ami",
+                                "iori"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "02",
+                    "disc_member_list": [
+                        "mirai",
+                        "tsubasa",
+                        "yuriko",
+                        "mizuki",
+                        "anna"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "乙女ストーム！",
+                            "group_song_list": [
+                                "Growing Storm!"
+                            ],
+                            "group_member_list": [
+                                "mirai",
+                                "tsubasa",
+                                "yuriko",
+                                "mizuki",
+                                "anna"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "03",
+                    "disc_member_list": [
+                        "shizuka",
+                        "reika",
+                        "shiho",
+                        "akane",
+                        "serika"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "クレシェンドブルー",
+                            "group_song_list": [
+                                "Shooting Stars"
+                            ],
+                            "group_member_list": [
+                                "shizuka",
+                                "reika",
+                                "shiho",
+                                "akane",
+                                "serika"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "04",
+                    "disc_member_list": [
+                        "chihaya",
+                        "emily",
+                        "julia",
+                        "matsuri",
+                        "fuka"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "エターナルハーモニー",
+                            "group_song_list": [
+                                "Eternal Harmony"
+                            ],
+                            "group_member_list": [
+                                "chihaya",
+                                "emily",
+                                "julia",
+                                "matsuri",
+                                "fuka"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "05",
+                    "disc_member_list": [
+                        "haruka",
+                        "momoko",
+                        "noriko",
+                        "arisa",
+                        "nao"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "リコッタ",
+                            "group_song_list": [
+                                "HOME, SWEET FRIENDSHIP"
+                            ],
+                            "group_member_list": [
+                                "haruka",
+                                "momoko",
+                                "noriko",
+                                "arisa",
+                                "nao"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "06",
+                    "disc_member_list": [
+                        "kotoha",
+                        "tamaki",
+                        "umi",
+                        "megumi",
+                        "miya"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "灼熱少女",
+                            "group_song_list": [
+                                "ジレるハートに火をつけて"
+                            ],
+                            "group_member_list": [
+                                "kotoha",
+                                "tamaki",
+                                "umi",
+                                "megumi",
+                                "miya"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "07",
+                    "disc_member_list": [
+                        "makoto",
+                        "yukiho",
+                        "ayumu",
+                        "azusa",
+                        "kana"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "BIRTH",
+                            "group_song_list": [
+                                "Birth of Color"
+                            ],
+                            "group_member_list": [
+                                "makoto",
+                                "yukiho",
+                                "ayumu",
+                                "azusa",
+                                "kana"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "08",
+                    "disc_member_list": [
+                        "konomi",
+                        "hinata",
+                        "minako",
+                        "iku",
+                        "mami"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "ミックスナッツ",
+                            "group_song_list": [
+                                "ドリームトラベラー"
+                            ],
+                            "group_member_list": [
+                                "konomi",
+                                "hinata",
+                                "minako",
+                                "iku",
+                                "mami"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "09",
+                    "disc_member_list": [
+                        "miki",
+                        "sayoko",
+                        "tomoka",
+                        "subaru",
+                        "chizuru"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "ミルキーウェイ",
+                            "group_song_list": [
+                                "星屑のシンフォニア"
+                            ],
+                            "group_member_list": [
+                                "miki",
+                                "sayoko",
+                                "tomoka",
+                                "subaru",
+                                "chizuru"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "10",
+                    "disc_member_list": [
+                        "karen",
+                        "takane",
+                        "elena",
+                        "rio",
+                        "roco"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "ARRIVE",
+                            "group_song_list": [
+                                "STANDING ALIVE"
+                            ],
+                            "group_member_list": [
+                                "karen",
+                                "takane",
+                                "elena",
+                                "rio",
+                                "roco"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "series_name": "LIVE THE@TER DREAMERS",
+            "series_abbr": "LTD",
+            "start_date": "20150930",
+            "disc_list": [
+                {
+                    "disc_number": "01",
+                    "disc_member_list": [
+                        "mirai",
+                        "shizuka",
+                        "tsubasa"
+                    ],
+                    "group_list": []
+                },
+                {
+                    "disc_number": "02",
+                    "disc_member_list": [
+                        "haruka",
+                        "mirai",
+                        "yayoi",
+                        "kana",
+                        "julia",
+                        "megumi",
+                        "reika",
+                        "shiho",
+                        "yuriko",
+                        "anna"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "ハルカナミライ"
+                            ],
+                            "group_member_list": [
+                                "haruka",
+                                "mirai"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Eternal Spiral"
+                            ],
+                            "group_member_list": [
+                                "yayoi",
+                                "kana"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "エスケープ"
+                            ],
+                            "group_member_list": [
+                                "julia",
+                                "megumi"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "piece of cake"
+                            ],
+                            "group_member_list": [
+                                "reika",
+                                "shiho"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "成長Chu→LOVER!!"
+                            ],
+                            "group_member_list": [
+                                "yuriko",
+                                "anna"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "03",
+                    "disc_member_list": [
+                        "chihaya",
+                        "shizuka",
+                        "momoko",
+                        "mizuki",
+                        "matsuri",
+                        "konomi",
+                        "chizuru",
+                        "yukiho",
+                        "serika",
+                        "miya"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "アライブファクター"
+                            ],
+                            "group_member_list": [
+                                "chihaya",
+                                "shizuka"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Cut. Cut. Cut."
+                            ],
+                            "group_member_list": [
+                                "momoko",
+                                "mizuki"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Decided"
+                            ],
+                            "group_member_list": [
+                                "matsuri",
+                                "konomi"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Persona Voice"
+                            ],
+                            "group_member_list": [
+                                "chizuru",
+                                "yukiho"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Smiling Crescent"
+                            ],
+                            "group_member_list": [
+                                "serika",
+                                "miya"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "04",
+                    "disc_member_list": [
+                        "ritsuko",
+                        "karen",
+                        "tsubasa",
+                        "hibiki",
+                        "emily",
+                        "iori",
+                        "sayoko",
+                        "minako",
+                        "tomoka",
+                        "iku"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "G♡F"
+                            ],
+                            "group_member_list": [
+                                "ritsuko",
+                                "karen"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "深層マーメイド"
+                            ],
+                            "group_member_list": [
+                                "tsubasa",
+                                "hibiki"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "little trip around the world"
+                            ],
+                            "group_member_list": [
+                                "emily",
+                                "iori"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Melody in scape"
+                            ],
+                            "group_member_list": [
+                                "sayoko",
+                                "minako"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "HELLO, YOUR ANGEL♪"
+                            ],
+                            "group_member_list": [
+                                "tomoka",
+                                "iku"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "05",
+                    "disc_member_list": [
+                        "hinata",
+                        "ami",
+                        "takane",
+                        "fuka",
+                        "akane",
+                        "roco",
+                        "arisa",
+                        "nao",
+                        "azusa",
+                        "rio"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "”Your” HOME TOWN"
+                            ],
+                            "group_member_list": [
+                                "hinata",
+                                "ami"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "秘密のメモリーズ"
+                            ],
+                            "group_member_list": [
+                                "takane",
+                                "fuka"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "fruity love"
+                            ],
+                            "group_member_list": [
+                                "akane",
+                                "roco"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "夜に輝く星座のように"
+                            ],
+                            "group_member_list": [
+                                "arisa",
+                                "nao"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "たしかな足跡"
+                            ],
+                            "group_member_list": [
+                                "azusa",
+                                "rio"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "06",
+                    "disc_member_list": [
+                        "tamaki",
+                        "mami",
+                        "makoto",
+                        "ayumu",
+                        "umi",
+                        "kotoha",
+                        "elena",
+                        "miki",
+                        "subaru",
+                        "noriko"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "ジャングル☆パーティー"
+                            ],
+                            "group_member_list": [
+                                "tamaki",
+                                "mami"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Beat the World!!!"
+                            ],
+                            "group_member_list": [
+                                "makoto",
+                                "ayumu"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Understand? Understand!"
+                            ],
+                            "group_member_list": [
+                                "umi",
+                                "kotoha"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Emergence Vibe"
+                            ],
+                            "group_member_list": [
+                                "elena",
+                                "miki"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Dreamscape"
+                            ],
+                            "group_member_list": [
+                                "subaru",
+                                "noriko"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "series_name": "LIVE THE@TER FORWARD",
+            "series_abbr": "LTF",
+            "start_date": "20161217",
+            "disc_list": [
+                {
+                    "disc_number": "01",
+                    "disc_member_list": [
+                        "tsubasa",
+                        "emily",
+                        "hinata",
+                        "minako",
+                        "elena",
+                        "iku",
+                        "noriko",
+                        "anna",
+                        "rio",
+                        "kana",
+                        "nao",
+                        "roco"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "キャンサー",
+                            "group_song_list": [
+                                "ランニング・ハイッ"
+                            ],
+                            "group_member_list": [
+                                "emily",
+                                "hinata",
+                                "nao"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": "レオ",
+                            "group_song_list": [
+                                "ゲキテキ！ムテキ！恋したい！"
+                            ],
+                            "group_member_list": [
+                                "elena",
+                                "iku",
+                                "roco"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": "リブラ",
+                            "group_song_list": [
+                                "Bonnes! Bonnes!! Vacances!!!"
+                            ],
+                            "group_member_list": [
+                                "tsubasa",
+                                "minako",
+                                "noriko"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": "カプリコーン",
+                            "group_song_list": [
+                                "NO CURRY NO LIFE"
+                            ],
+                            "group_member_list": [
+                                "anna",
+                                "rio",
+                                "kana"
+                            ]
+                        },
+                        {
+                            "group_type": "team",
+                            "group_name": "Sunshine Rhythm",
+                            "group_song_list": [
+                                "サンリズム・オーケストラ♪"
+                            ],
+                            "group_member_list": [
+                                "tsubasa",
+                                "emily",
+                                "hinata",
+                                "minako",
+                                "elena",
+                                "iku",
+                                "noriko",
+                                "anna",
+                                "rio",
+                                "kana",
+                                "nao",
+                                "roco"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "02",
+                    "disc_member_list": [
+                        "reika",
+                        "karen",
+                        "julia",
+                        "sayoko",
+                        "tomoka",
+                        "megumi",
+                        "subaru",
+                        "yuriko",
+                        "chizuru",
+                        "ayumu",
+                        "mizuki",
+                        "shizuka"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "サジタリアス",
+                            "group_song_list": [
+                                "Raise the FLAG"
+                            ],
+                            "group_member_list": [
+                                "megumi",
+                                "ayumu",
+                                "mizuki"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": "ピスケス",
+                            "group_song_list": [
+                                "P.S I Love You"
+                            ],
+                            "group_member_list": [
+                                "karen",
+                                "tomoka",
+                                "chizuru"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": "ウィルゴ",
+                            "group_song_list": [
+                                "プリムラ"
+                            ],
+                            "group_member_list": [
+                                "subaru",
+                                "yuriko",
+                                "shizuka"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": "アクアリウス",
+                            "group_song_list": [
+                                "待ちぼうけのLacrima"
+                            ],
+                            "group_member_list": [
+                                "reika",
+                                "julia",
+                                "sayoko"
+                            ]
+                        },
+                        {
+                            "group_type": "team",
+                            "group_name": "BlueMoon Harmony",
+                            "group_song_list": [
+                                "brave HARMONY"
+                            ],
+                            "group_member_list": [
+                                "reika",
+                                "karen",
+                                "julia",
+                                "sayoko",
+                                "tomoka",
+                                "megumi",
+                                "subaru",
+                                "yuriko",
+                                "chizuru",
+                                "ayumu",
+                                "mizuki",
+                                "shizuka"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "03",
+                    "disc_member_list": [
+                        "mirai",
+                        "tamaki",
+                        "shiho",
+                        "umi",
+                        "momoko",
+                        "matsuri",
+                        "fuka",
+                        "akane",
+                        "serika",
+                        "konomi",
+                        "arisa",
+                        "miya",
+                        "kotoha"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "スコーピオ",
+                            "group_song_list": [
+                                "リフレインキス"
+                            ],
+                            "group_member_list": [
+                                "shiho",
+                                "umi",
+                                "arisa",
+                                "kotoha"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": "アリエス",
+                            "group_song_list": [
+                                "Sweet Sweet Soul"
+                            ],
+                            "group_member_list": [
+                                "tamaki",
+                                "akane",
+                                "serika"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": "タウラス",
+                            "group_song_list": [
+                                "メメント？モメント♪ルルルルル☆"
+                            ],
+                            "group_member_list": [
+                                "mirai",
+                                "matsuri",
+                                "miya"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": "ジェミニ",
+                            "group_song_list": [
+                                "永遠の花"
+                            ],
+                            "group_member_list": [
+                                "momoko",
+                                "fuka",
+                                "konomi"
+                            ]
+                        },
+                        {
+                            "group_type": "team",
+                            "group_name": "Starlight Melody",
+                            "group_song_list": [
+                                "Starry Melody"
+                            ],
+                            "group_member_list": [
+                                "mirai",
+                                "tamaki",
+                                "shiho",
+                                "umi",
+                                "momoko",
+                                "matsuri",
+                                "fuka",
+                                "akane",
+                                "serika",
+                                "konomi",
+                                "arisa",
+                                "miya",
+                                "kotoha"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "series_name": "THE@TER ACTIVITIES",
+            "series_abbr": "TA",
+            "start_date": "20160907",
+            "disc_list": [
+                {
+                    "disc_number": "01",
+                    "disc_member_list": [
+                        "yuriko",
+                        "tomoka",
+                        "serika",
+                        "arisa",
+                        "roco"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "創造は始まりの風を連れて"
+                            ],
+                            "group_member_list": [
+                                "yuriko",
+                                "tomoka",
+                                "serika",
+                                "arisa",
+                                "roco"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "02",
+                    "disc_member_list": [
+                        "julia",
+                        "momoko",
+                        "tamaki",
+                        "hinata",
+                        "noriko"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "俠気乱舞"
+                            ],
+                            "group_member_list": [
+                                "julia",
+                                "momoko",
+                                "tamaki",
+                                "hinata",
+                                "noriko"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "03",
+                    "disc_member_list": [
+                        "minako",
+                        "karen",
+                        "mizuki",
+                        "reika",
+                        "kana"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "赤い世界が消える頃"
+                            ],
+                            "group_member_list": [
+                                "minako",
+                                "karen",
+                                "mizuki",
+                                "reika",
+                                "kana"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "series_name": "MILLION THE@TER GENERATION",
+            "series_abbr": "MTG",
+            "start_date": "20170726",
+            "disc_list": [
+                {
+                    "disc_number": "01",
+                    "disc_member_list": [
+                        "tsubasa",
+                        "umi"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "インヴィンシブル・ジャスティス"
+                            ],
+                            "group_member_list": [
+                                "tsubasa",
+                                "umi"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "02",
+                    "disc_member_list": [
+                        "shizuka",
+                        "megumi",
+                        "roco",
+                        "tomoka",
+                        "shiho",
+                        "ayumu",
+                        "chizuru",
+                        "mizuki",
+                        "rio",
+                        "subaru",
+                        "momoko",
+                        "julia",
+                        "tsumugi"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "group",
+                            "group_name": "フェアリースターズ",
+                            "group_song_list": [
+                                "FairyTaleじゃいられない"
+                            ],
+                            "group_member_list": [
+                                "shizuka",
+                                "megumi",
+                                "roco",
+                                "tomoka",
+                                "shiho",
+                                "ayumu",
+                                "chizuru",
+                                "mizuki",
+                                "rio",
+                                "subaru",
+                                "momoko",
+                                "julia",
+                                "tsumugi"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "03",
+                    "disc_member_list": [
+                        "tsubasa",
+                        "elena",
+                        "serika",
+                        "akane",
+                        "anna",
+                        "hinata",
+                        "konomi",
+                        "tamaki",
+                        "fuka",
+                        "miya",
+                        "karen",
+                        "reika",
+                        "kaori"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "group",
+                            "group_name": "エンジェルスターズ",
+                            "group_song_list": [
+                                "Angelic Parade♪"
+                            ],
+                            "group_member_list": [
+                                "tsubasa",
+                                "elena",
+                                "serika",
+                                "akane",
+                                "anna",
+                                "hinata",
+                                "konomi",
+                                "tamaki",
+                                "fuka",
+                                "miya",
+                                "karen",
+                                "reika",
+                                "kaori"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "04",
+                    "disc_member_list": [
+                        "mirai",
+                        "kotoha",
+                        "minako",
+                        "matsuri",
+                        "yuriko",
+                        "sayoko",
+                        "arisa",
+                        "umi",
+                        "iku",
+                        "emily",
+                        "kana",
+                        "nao",
+                        "noriko"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "group",
+                            "group_name": "プリンセススターズ",
+                            "group_song_list": [
+                                "Princess Be Ambitious!!"
+                            ],
+                            "group_member_list": [
+                                "mirai",
+                                "kotoha",
+                                "minako",
+                                "matsuri",
+                                "yuriko",
+                                "sayoko",
+                                "arisa",
+                                "umi",
+                                "iku",
+                                "emily",
+                                "kana",
+                                "nao",
+                                "noriko"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "05",
+                    "disc_member_list": [
+                        "tomoka",
+                        "megumi",
+                        "chizuru",
+                        "rio"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "夜想令嬢 -GRAC&E NOCTURNE-",
+                            "group_song_list": [
+                                "昏き星、遠い月",
+                                "Everlasting"
+                            ],
+                            "group_member_list": [
+                                "tomoka",
+                                "megumi",
+                                "chizuru",
+                                "rio"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "06",
+                    "disc_member_list": [
+                        "elena",
+                        "miya"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "Cleasky",
+                            "group_song_list": [
+                                "虹色letters",
+                                "想い出はクリアスカイ"
+                            ],
+                            "group_member_list": [
+                                "elena",
+                                "miya"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "07",
+                    "disc_member_list": [
+                        "iku",
+                        "yuriko",
+                        "arisa"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "トゥインクルリズム",
+                            "group_song_list": [
+                                "ZETTAI × BREAK!! トゥインクルリズム",
+                                "Tomorrow Program"
+                            ],
+                            "group_member_list": [
+                                "iku",
+                                "yuriko",
+                                "arisa"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "08",
+                    "disc_member_list": [
+                        "mizuki",
+                        "tsumugi",
+                        "shiho"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "EScape",
+                            "group_song_list": [
+                                "Melty Fantasia",
+                                "I.D～EScape from Utopia～"
+                            ],
+                            "group_member_list": [
+                                "mizuki",
+                                "tsumugi",
+                                "shiho"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "09",
+                    "disc_member_list": [
+                        "kaori",
+                        "fuka",
+                        "reika",
+                        "konomi"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "4 Luxury",
+                            "group_song_list": [
+                                "花ざかりWeekend✿",
+                                "RED ZONE"
+                            ],
+                            "group_member_list": [
+                                "kaori",
+                                "fuka",
+                                "reika",
+                                "konomi"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "10",
+                    "disc_member_list": [
+                        "sayoko",
+                        "umi",
+                        "noriko",
+                        "nao",
+                        "minako"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "閃光☆HANABI団",
+                            "group_song_list": [
+                                "咲くは浮世の君花火",
+                                "BORN ON DREAM! ～HANABI☆NIGHT～"
+                            ],
+                            "group_member_list": [
+                                "sayoko",
+                                "umi",
+                                "noriko",
+                                "nao",
+                                "minako"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "12",
+                    "disc_member_list": [
+                        "julia",
+                        "shizuka"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "D/Zeal",
+                            "group_song_list": [
+                                "ハーモニクス",
+                                "餞の鳥"
+                            ],
+                            "group_member_list": [
+                                "julia",
+                                "shizuka"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "13",
+                    "disc_member_list": [
+                        "karen",
+                        "akane",
+                        "tsubasa"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "りるきゃん ～3 little candy～",
+                            "group_song_list": [
+                                "ハルマチ女子",
+                                "彼氏になってよ。"
+                            ],
+                            "group_member_list": [
+                                "karen",
+                                "akane",
+                                "tsubasa"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "14",
+                    "disc_member_list": [
+                        "matsuri",
+                        "emily"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "Charlotte・Charlotte",
+                            "group_song_list": [
+                                "だってあなたはプリンセス",
+                                "ミラージュ・ミラー"
+                            ],
+                            "group_member_list": [
+                                "matsuri",
+                                "emily"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "15",
+                    "disc_member_list": [
+                        "roco",
+                        "ayumu",
+                        "subaru",
+                        "momoko"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "Jelly PoP Beans",
+                            "group_song_list": [
+                                "月曜日のクリームソーダ",
+                                "I did+I will"
+                            ],
+                            "group_member_list": [
+                                "roco",
+                                "ayumu",
+                                "subaru",
+                                "momoko"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "16",
+                    "disc_member_list": [
+                        "hinata",
+                        "serika",
+                        "tamaki",
+                        "anna"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "ピコピコプラネッツ",
+                            "group_song_list": [
+                                "ピコピコIIKO! インベーダー",
+                                "Get lol! Get lol! SONG"
+                            ],
+                            "group_member_list": [
+                                "hinata",
+                                "serika",
+                                "tamaki",
+                                "anna"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "17",
+                    "disc_member_list": [
+                        "mirai",
+                        "kana",
+                        "kotoha"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "STAR ELEMENTS",
+                            "group_song_list": [
+                                "Episode. Tiara",
+                                "ギブミーメタファー"
+                            ],
+                            "group_member_list": [
+                                "mirai",
+                                "kana",
+                                "kotoha"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "18",
+                    "disc_member_list": [
+                        "haruka",
+                        "chihaya",
+                        "miki",
+                        "ritsuko",
+                        "hibiki",
+                        "makoto",
+                        "takane",
+                        "yayoi",
+                        "yukiho",
+                        "ami",
+                        "mami",
+                        "azusa",
+                        "iori"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "group",
+                            "group_name": "765PRO ALLSTARS",
+                            "group_song_list": [
+                                "LEADER!!"
+                            ],
+                            "group_member_list": [
+                                "haruka",
+                                "chihaya",
+                                "miki",
+                                "ritsuko",
+                                "hibiki",
+                                "makoto",
+                                "takane",
+                                "yayoi",
+                                "yukiho",
+                                "ami",
+                                "mami",
+                                "azusa",
+                                "iori"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "series_name": "M@STER SPARKLE",
+            "series_abbr": "MS",
+            "start_date": "20170823",
+            "disc_list": [
+                {
+                    "disc_number": "01",
+                    "disc_member_list": [
+                        "mirai",
+                        "tsumugi",
+                        "momoko",
+                        "fuka",
+                        "yuriko"
+                    ],
+                    "group_list": []
+                },
+                {
+                    "disc_number": "02",
+                    "disc_member_list": [
+                        "tsubasa",
+                        "shiho",
+                        "kaori",
+                        "matsuri",
+                        "subaru"
+                    ],
+                    "group_list": []
+                },
+                {
+                    "disc_number": "03",
+                    "disc_member_list": [
+                        "minako",
+                        "sayoko",
+                        "serika",
+                        "konomi",
+                        "shizuka"
+                    ],
+                    "group_list": []
+                },
+                {
+                    "disc_number": "04",
+                    "disc_member_list": [
+                        "umi",
+                        "akane",
+                        "roco",
+                        "anna",
+                        "kana"
+                    ],
+                    "group_list": []
+                },
+                {
+                    "disc_number": "05",
+                    "disc_member_list": [
+                        "tamaki",
+                        "miya",
+                        "rio",
+                        "emily",
+                        "mizuki"
+                    ],
+                    "group_list": []
+                },
+                {
+                    "disc_number": "06",
+                    "disc_member_list": [
+                        "julia",
+                        "chizuru",
+                        "noriko",
+                        "ayumu",
+                        "nao"
+                    ],
+                    "group_list": []
+                },
+                {
+                    "disc_number": "07",
+                    "disc_member_list": [
+                        "hinata",
+                        "karen",
+                        "megumi",
+                        "iku",
+                        "arisa"
+                    ],
+                    "group_list": []
+                },
+                {
+                    "disc_number": "08",
+                    "disc_member_list": [
+                        "reika",
+                        "elena",
+                        "kotoha",
+                        "tomoka"
+                    ],
+                    "group_list": []
+                }
+            ]
+        },
+        {
+            "series_name": "THE@TER BOOST",
+            "series_abbr": "TB",
+            "start_date": "20180926",
+            "disc_list": [
+                {
+                    "disc_number": "01",
+                    "disc_member_list": [
+                        "umi",
+                        "megumi",
+                        "sayoko",
+                        "fuka",
+                        "nao"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "ビッグバンズバリボー!!!!!"
+                            ],
+                            "group_member_list": [
+                                "umi",
+                                "megumi",
+                                "sayoko",
+                                "fuka",
+                                "nao"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "02",
+                    "disc_member_list": [
+                        "kaori",
+                        "shizuka",
+                        "anna",
+                        "rio",
+                        "miya"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "オーディナリィ・クローバー"
+                            ],
+                            "group_member_list": [
+                                "kaori",
+                                "shizuka",
+                                "anna",
+                                "rio",
+                                "miya"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "03",
+                    "disc_member_list": [
+                        "kotoha",
+                        "momoko",
+                        "konomi",
+                        "mizuki",
+                        "tsumugi"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "ラスト・アクトレス"
+                            ],
+                            "group_member_list": [
+                                "kotoha",
+                                "momoko",
+                                "konomi",
+                                "mizuki",
+                                "tsumugi"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "series_name": "MILLION THE@TER WAVE",
+            "series_abbr": "MTW",
+            "start_date": "20190724",
+            "disc_list": [
+                {
+                    "disc_number": "01",
+                    "disc_member_list": [
+                        "tsumugi",
+                        "kaori",
+                        "julia",
+                        "makoto",
+                        "akane",
+                        "fuka",
+                        "konomi",
+                        "rio",
+                        "chizuru"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "ジェネシス×ネメシス",
+                            "group_song_list": [
+                                "Justice OR Voice"
+                            ],
+                            "group_member_list": [
+                                "tsumugi",
+                                "kaori",
+                                "julia",
+                                "makoto",
+                                "akane"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "White Vows"
+                            ],
+                            "group_member_list": [
+                                "fuka",
+                                "konomi",
+                                "rio",
+                                "kaori",
+                                "chizuru"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "02",
+                    "disc_member_list": [
+                        "yuriko",
+                        "subaru",
+                        "roco",
+                        "anna",
+                        "mizuki"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "Chrono-Lexica",
+                            "group_song_list": [
+                                "dans l'obscurité",
+                                "囚われのTeaTime"
+                            ],
+                            "group_member_list": [
+                                "yuriko",
+                                "subaru",
+                                "roco",
+                                "anna",
+                                "mizuki"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "03",
+                    "disc_member_list": [
+                        "yukiho",
+                        "miki",
+                        "makoto",
+                        "iori"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "Xs",
+                            "group_song_list": [
+                                "ラビットファー",
+                                "Dreamy Dream"
+                            ],
+                            "group_member_list": [
+                                "yukiho",
+                                "miki",
+                                "makoto",
+                                "iori"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "04",
+                    "disc_member_list": [
+                        "konomi",
+                        "rio"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "Sherry 'n Cherry",
+                            "group_song_list": [
+                                "Cherry Colored Love",
+                                "夜と、明かりと。"
+                            ],
+                            "group_member_list": [
+                                "konomi",
+                                "rio"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "05",
+                    "disc_member_list": [
+                        "azusa",
+                        "chihaya",
+                        "takane"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "ARCANA",
+                            "group_song_list": [
+                                "Fermata in Rapsodia",
+                                "DEpArture from THe life"
+                            ],
+                            "group_member_list": [
+                                "azusa",
+                                "chihaya",
+                                "takane"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "06",
+                    "disc_member_list": [
+                        "emily",
+                        "tsumugi",
+                        "tomoka"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "花咲夜",
+                            "group_song_list": [
+                                "百花は月下に散りぬるを",
+                                "矛盾の月"
+                            ],
+                            "group_member_list": [
+                                "emily",
+                                "tsumugi",
+                                "tomoka"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "07",
+                    "disc_member_list": [
+                        "minako",
+                        "nao"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "Jus-2-Mint",
+                            "group_song_list": [
+                                "Super Duper",
+                                "Hang In There!"
+                            ],
+                            "group_member_list": [
+                                "minako",
+                                "nao"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "08",
+                    "disc_member_list": [
+                        "ayumu",
+                        "noriko",
+                        "elena",
+                        "umi"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "miraclesonic★expassion",
+                            "group_song_list": [
+                                "絶対的Performer",
+                                "My Evolution"
+                            ],
+                            "group_member_list": [
+                                "ayumu",
+                                "noriko",
+                                "elena",
+                                "umi"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "09",
+                    "disc_member_list": [
+                        "karen",
+                        "serika",
+                        "miya",
+                        "hinata"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "Fleuranges",
+                            "group_song_list": [
+                                "Special Wonderful Smile",
+                                "旅立ちのコンパス"
+                            ],
+                            "group_member_list": [
+                                "karen",
+                                "serika",
+                                "miya",
+                                "hinata"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "10",
+                    "disc_member_list": [
+                        "tomoka",
+                        "emily",
+                        "yuriko",
+                        "subaru",
+                        "tsubasa",
+                        "kaori",
+                        "tsumugi"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Do the IDOL!! ～断崖絶壁チュパカブラ～"
+                            ],
+                            "group_member_list": [
+                                "tomoka",
+                                "emily",
+                                "yuriko",
+                                "subaru",
+                                "tsubasa"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "11",
+                    "disc_member_list": [
+                        "shiho",
+                        "kaori",
+                        "matsuri",
+                        "kotoha"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "オペラセリア・煌輝座",
+                            "group_song_list": [
+                                "Parade d’amour",
+                                "星宙のVoyage"
+                            ],
+                            "group_member_list": [
+                                "shiho",
+                                "kaori",
+                                "matsuri",
+                                "kotoha"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "12",
+                    "disc_member_list": [
+                        "yayoi",
+                        "haruka",
+                        "hibiki"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "ダイヤモンドダイバー◇",
+                            "group_song_list": [
+                                "Deep, Deep Blue",
+                                "VIVA☆アクアリズム"
+                            ],
+                            "group_member_list": [
+                                "yayoi",
+                                "haruka",
+                                "hibiki"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "13",
+                    "disc_member_list": [
+                        "tamaki",
+                        "iku",
+                        "momoko"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "TIntMe!",
+                            "group_song_list": [
+                                "Arrive You ~それが運命でも~",
+                                "ライラックにつつまれて"
+                            ],
+                            "group_member_list": [
+                                "tamaki",
+                                "iku",
+                                "momoko"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "14",
+                    "disc_member_list": [
+                        "reika",
+                        "akane"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "TRICK&TREAT",
+                            "group_song_list": [
+                                "Black★Party",
+                                "フシギトラベラー"
+                            ],
+                            "group_member_list": [
+                                "reika",
+                                "akane"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "15",
+                    "disc_member_list": [
+                        "sayoko",
+                        "fuka",
+                        "julia",
+                        "chizuru"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "chicAAmor",
+                            "group_song_list": [
+                                "深紅のパシオン",
+                                "Paradox of LOVE"
+                            ],
+                            "group_member_list": [
+                                "sayoko",
+                                "fuka",
+                                "julia",
+                                "chizuru"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "16",
+                    "disc_member_list": [
+                        "megumi",
+                        "arisa",
+                        "kana"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "≡君彩≡",
+                            "group_song_list": [
+                                "ReTale",
+                                "パンとフィルム"
+                            ],
+                            "group_member_list": [
+                                "megumi",
+                                "arisa",
+                                "kana"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "17",
+                    "disc_member_list": [
+                        "mami",
+                        "ritsuko",
+                        "ami"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "ARMooo",
+                            "group_song_list": [
+                                "フリースタイル・トップアイドル！",
+                                "ウェイ・ダ・アイドル"
+                            ],
+                            "group_member_list": [
+                                "mami",
+                                "ritsuko",
+                                "ami"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "18",
+                    "disc_member_list": [
+                        "mirai",
+                        "shizuka",
+                        "tsubasa"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": "ストロベリーポップムーン",
+                            "group_song_list": [
+                                "ABSOLUTE RUN!!!",
+                                "Be proud"
+                            ],
+                            "group_member_list": [
+                                "mirai",
+                                "shizuka",
+                                "tsubasa"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "series_name": "THE@TER CHALLENGE",
+            "series_abbr": "TC",
+            "start_date": "20191030",
+            "disc_list": [
+                {
+                    "disc_number": "01",
+                    "disc_member_list": [
+                        "serika",
+                        "momoko",
+                        "matsuri",
+                        "hibiki",
+                        "subaru"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "Girl meets Wonder"
+                            ],
+                            "group_member_list": [
+                                "serika",
+                                "momoko",
+                                "matsuri",
+                                "hibiki",
+                                "subaru"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "02",
+                    "disc_member_list": [
+                        "chihaya",
+                        "miki",
+                        "emily",
+                        "makoto",
+                        "haruka"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "World Changer"
+                            ],
+                            "group_member_list": [
+                                "chihaya",
+                                "miki",
+                                "emily",
+                                "makoto",
+                                "haruka"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "03",
+                    "disc_member_list": [
+                        "akane",
+                        "elena",
+                        "kaori",
+                        "chizuru",
+                        "shiho"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "クルリウタ"
+                            ],
+                            "group_member_list": [
+                                "akane",
+                                "elena",
+                                "kaori",
+                                "chizuru",
+                                "shiho"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "series_name": "なんどでも笑おう",
+            "series_abbr": "なん笑",
+            "start_date": "20200930",
+            "disc_list": [
+                {
+                    "disc_number": "01",
+                    "disc_member_list": [
+                        "mirai",
+                        "shizuka",
+                        "tsubasa"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "なんどでも笑おう"
+                            ],
+                            "group_member_list": [
+                                "mirai",
+                                "shizuka",
+                                "tsubasa"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "series_name": "VOY@GER",
+            "series_abbr": "VOY@GER",
+            "start_date": "20210804",
+            "disc_list": [
+                {
+                    "disc_number": "01",
+                    "disc_member_list": [
+                        "umi",
+                        "tsumugi",
+                        "anna"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "VOY@GER"
+                            ],
+                            "group_member_list": [
+                                "umi",
+                                "tsumugi",
+                                "anna"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "series_name": "MILLION THE@TER SEASON",
+            "series_abbr": "MTS",
+            "start_date": "20210728",
+            "disc_list": [
+                {
+                    "disc_number": "02",
+                    "disc_member_list": [
+                        "tsubasa",
+                        "matsuri",
+                        "takane",
+                        "megumi",
+                        "rio",
+                        "yukiho",
+                        "kotoha",
+                        "mami",
+                        "iori",
+                        "miya",
+                        "mirai",
+                        "kaori",
+                        "momoko"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "team",
+                            "group_name": "BRIGHT DIAMOND",
+                            "group_song_list": [
+                                "ダイヤモンド・クラリティ"
+                            ],
+                            "group_member_list": [
+                                "tsubasa",
+                                "matsuri",
+                                "takane",
+                                "megumi",
+                                "rio",
+                                "yukiho",
+                                "kotoha",
+                                "mami",
+                                "iori",
+                                "miya",
+                                "mirai",
+                                "kaori",
+                                "momoko"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "03",
+                    "disc_member_list": [
+                        "serika",
+                        "azusa",
+                        "umi",
+                        "roco",
+                        "makoto",
+                        "chizuru",
+                        "elena",
+                        "mizuki",
+                        "nao",
+                        "konomi",
+                        "ritsuko",
+                        "tamaki",
+                        "hinata"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "team",
+                            "group_name": "CLEVER CLOVER",
+                            "group_song_list": [
+                                "Shamrock Vivace"
+                            ],
+                            "group_member_list": [
+                                "serika",
+                                "azusa",
+                                "umi",
+                                "roco",
+                                "makoto",
+                                "chizuru",
+                                "elena",
+                                "mizuki",
+                                "nao",
+                                "konomi",
+                                "ritsuko",
+                                "tamaki",
+                                "hinata"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "04",
+                    "disc_member_list": [
+                        "yayoi",
+                        "haruka",
+                        "reika",
+                        "anna",
+                        "julia",
+                        "minako",
+                        "sayoko",
+                        "yuriko",
+                        "kana",
+                        "noriko",
+                        "chihaya",
+                        "tomoka",
+                        "arisa"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "team",
+                            "group_name": "LOVERS HEART",
+                            "group_song_list": [
+                                "空色♡ Birthday Card"
+                            ],
+                            "group_member_list": [
+                                "yayoi",
+                                "haruka",
+                                "reika",
+                                "anna",
+                                "julia",
+                                "minako",
+                                "sayoko",
+                                "yuriko",
+                                "kana",
+                                "noriko",
+                                "chihaya",
+                                "tomoka",
+                                "arisa"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "disc_number": "05",
+                    "disc_member_list": [
+                        "iku",
+                        "emily",
+                        "shizuka",
+                        "shiho",
+                        "subaru",
+                        "ayumu",
+                        "tsumugi",
+                        "akane",
+                        "fuka",
+                        "karen",
+                        "miki",
+                        "ami",
+                        "hibiki"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "team",
+                            "group_name": "SHADE OF SPADE",
+                            "group_song_list": [
+                                "（SHADE OF SPADEチーム曲）"
+                            ],
+                            "group_member_list": [
+                                "iku",
+                                "emily",
+                                "shizuka",
+                                "shiho",
+                                "subaru",
+                                "ayumu",
+                                "tsumugi",
+                                "akane",
+                                "fuka",
+                                "karen",
+                                "miki",
+                                "ami",
+                                "hibiki"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "series_name": "聖ミリオン女学園",
+            "series_abbr": "ミリ女",
+            "start_date": "20210825",
+            "disc_list": [
+                {
+                    "disc_number": "01",
+                    "disc_member_list": [
+                        "umi",
+                        "azusa",
+                        "iku",
+                        "subaru",
+                        "chihaya",
+                        "karen",
+                        "tsumugi",
+                        "minako",
+                        "momoko",
+                        "megumi"
+                    ],
+                    "group_list": [
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "カーテシーフラワー"
+                            ],
+                            "group_member_list": [
+                                "umi",
+                                "azusa",
+                                "iku"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "聖ミリオン女学園校歌"
+                            ],
+                            "group_member_list": [
+                                "subaru",
+                                "chihaya",
+                                "karen"
+                            ]
+                        },
+                        {
+                            "group_type": "unit",
+                            "group_name": null,
+                            "group_song_list": [
+                                "花びらメモリーズ"
+                            ],
+                            "group_member_list": [
+                                "tsumugi",
+                                "minako",
+                                "momoko",
+                                "megumi"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
